@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435133360472",
+    "firebase_url": "https://nachat-d892e.firebaseio.com",
+    "project_id": "nachat-d892e",
+    "storage_bucket": "nachat-d892e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435133360472:android:647e1a4d0ca55f6de81d2d",
+        "android_client_info": {
+          "package_name": "com.yyt.nachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435133360472-782qg5joet3b4subj4ig59hndlbk1ck7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yyt.nachat",
+            "certificate_hash": "1db4c30bb4dd6f00ded2cffd5c59dac04d93819a"
+          }
+        },
+        {
+          "client_id": "435133360472-qgm5kou0kafe0d69ka5h09a3gukse56g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDxpqq5fHjmrkVeaOiF2oALUfwoamxbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435133360472-qgm5kou0kafe0d69ka5h09a3gukse56g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
